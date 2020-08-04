@@ -1,6 +1,7 @@
 {
   "name": "maheshbabu1993/github-second",
   "license": "MIT",
+  "version": "1.0.0",
   "minimum-stability": "stable",
   "require": {
     "monolog/monolog": "1.0.*"
