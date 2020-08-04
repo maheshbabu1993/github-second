@@ -1,0 +1,6 @@
+{
+  "name": "maheshbabu1993/github-second",
+  "require": {
+    "monolog/monolog": "1.0.*"
+  }
+}
